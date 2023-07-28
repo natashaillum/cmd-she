@@ -1,4 +1,4 @@
-#Cmd+She#
+**Cmd+She**
 
 Cmd+She is an open source community platform built to empower women in tech. We provide resources, support, and opportunities for women to develop tech skills and collaborate.
 
